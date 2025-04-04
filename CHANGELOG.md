@@ -1,5 +1,12 @@
 # @taskless/packcheck
 
+## 0.0.5
+
+### Patch Changes
+
+- 523e4be: Updates Taskless Loader to pre2 schemas
+- 956014a: Fixes tests to use namespaced pack names
+
 ## 0.0.4
 
 ### Patch Changes

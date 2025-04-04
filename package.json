@@ -1,7 +1,7 @@
 {
   "name": "@taskless/packcheck",
   "description": "Check your Taskless Packs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Taskless",
   "license": "Apache-2.0",
   "repository": "taskless/loader-js",
